@@ -145,7 +145,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Les déterminents de l'utilisation de Glyphosate en France
+        title: <img src="images/gael.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Les déterminents de l'utilisation de Glyphosate en France
         additional_links:
           - title:  Repository du projet
             icon: fab fa-github
@@ -157,7 +157,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Prédiction du prix des logements à Seattle
+        title: <img src="images/gael.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Prédiction du prix des logements à Seattle
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
