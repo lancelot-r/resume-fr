@@ -179,7 +179,7 @@ content:
     layout: list
     content:
       - layout: right
-        title: '<img src="images/schneider.png" height="20" style="vertical-align:middle; margin-right:5px;">'
+        title: '<img src="images/schneider.png" height="50" style="vertical-align:middle; margin-right:5px;">'
         sub_title: Monteur - Assembleur - Soudeur - Cableur
         caption: Eté 2019 / Eté 2020, Eté 2021, Eté 2024
         quote: >
@@ -187,7 +187,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Production à la chaine / Manipulation de gaz dangereux / Contrôle qualité
       - layout: right
-        title: La Poste
+        title: '<img src="images/laposte.png" height="50" style="vertical-align:middle; margin-right:5px;">'
         sub_title: Facteur à vélo
         caption: Eté 2020 / Eté 2021 / Eté 2022 / Eté 2023
         quote: >
@@ -195,7 +195,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Distribution de courrier à vélo / Tri de courrier
       - layout: right
-        title: Schneider Electric
+        title: '<img src="images/schneider.png" height="50" style="vertical-align:middle; margin-right:5px;">'
         sub_title: Assistant Import-Export
         caption: Avril-Mai 2021
         description: | # this will include new lines to allow paragraphs
