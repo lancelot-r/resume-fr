@@ -129,11 +129,11 @@ content:
         quote: >
           Réalisé en collaboration avec l'Institut pour l'Avancée des Biosciences (IAB) Grenoble (2024/2025)
         description: | # this will include new lines to allow paragraphs
-          Nettoyage de données et fusion de bases de données (pandas), construction de courbes de survie (lifeline) afin d'analyser la survie de patients selon l'activation de certains gènes, machine-learning (scikit-learn) et analyse statistique sous Python, rédaction d'un rapport reproductible sous Quarto. <br> Programmation : <img src="images/python.png" height="50" style="vertical-align:middle; margin-right:5px;">
+          Nettoyage de données et fusion de bases de données (pandas), construction de courbes de survie (lifeline) afin d'analyser la survie de patients selon l'activation de certains gènes, machine-learning (scikit-learn) et analyse statistique sous Python, rédaction d'un rapport reproductible sous Quarto. <br> Programmation : <img src="images/python.png" height="30" style="vertical-align:middle; margin-right:5px;">
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Jeu de BlackJack en Julia
+        title: <img src="images/miai.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Jeu de BlackJack en Julia
         additional_links:
           - title:  Repository du package Julia
             icon: fab fa-github
@@ -141,7 +141,7 @@ content:
         quote: >
           Projet réalisé en 2024 sous la supervision de Remy Drouilhet (IMAG - Grenlble)
         description: | # this will include new lines to allow paragraphs
-          Codage d'un jeu de blackjack sous Julia sans l'aide de packages, création de l'interface graphique sous Pluto à l'aide d'HTML, comparaison de benchmarks entre Julia/R/C\texttt{++} et codage de différentes fonctions pour illustrer le multiple-dispatching de Julia face au simple-dispatching de R. <br> Programmation : <img src="images/julia.png" height="40" style="vertical-align:middle; margin-right:5px;">
+          Codage d'un jeu de blackjack sous Julia sans l'aide de packages, création de l'interface graphique sous Pluto à l'aide d'HTML, comparaison de benchmarks entre Julia/R/C\texttt{++} et codage de différentes fonctions pour illustrer le multiple-dispatching de Julia face au simple-dispatching de R. <br> Programmation : <img src="images/julia.png" height="40" style="vertical-align:middle; margin-right:5px;"> <img src="images/html.png" height="40" style="vertical-align:middle; margin-right:5px;"> <img src="images/cpp.png" height="40" style="vertical-align:middle; margin-right:5px;"> <img src="images/html.png" height="40" style="vertical-align:middle; margin-right:5px;"> <img src="images/r.png" height="40" style="vertical-align:middle; margin-right:5px;">
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -169,7 +169,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Enseignant-Tuteur en Mathématiques
+        title: <img src="images/feg.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Enseignant-Tuteur en Mathématiques
         quote: >
           Poste occupé en 2022, 2023 et 2024 à la Faculté d'Economie de l'UGA
         description: | # this will include new lines to allow paragraphs
