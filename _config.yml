@@ -73,6 +73,33 @@ content:
         quote: >
           Effet de l'altitude sur le développement des enfants de 6 mois à 12 ans vivant au Pérou
         description: | # this will include new lines to allow paragraphs
+          Publication scientifique en cours de rédaction en vue d'une soumission fin 2025 à la suite de mon stage effectué au laboratoire HP2 pour le projet "Expedition 5300", dans lequel j'ai effectué la partie analyse de données.
+  - title: Diplômes # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Master 2 Statistiques et Sciences de Données
+        quote: >
+          Université Grenoble Alpes - Actuel
+        description: | # this will include new lines to allow paragraphs
+          Cours suivis : Statistique computationnelle (bootstrap, MCMC, Bayésien), Statistique en grande dimension (tests multiples, Lasso, Ridge), Estimation non paramétrique (noyaux, fonctions de régression), Apprentissage statistique (arbres, SVM, forêts aléatoires, deep learning sous Python), Optimisation (Python, Julia), Biostatistique avancée (modèles de Cox, mixtes, inférence causale), Fiabilité (lois de probabilité, Weibull, maintenance), Fouille de textes (Word2Vec, BERT, NLP avec PyTorch/TensorFlow), Géostatistique et statistique spatiale (krigeage, processus de Poisson, modèles de Gibbs).
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Master 1 Statistiques et Sciences de Données
+        quote: >
+          Université Grenoble Alpes - 2024/2025 (moyenne : )
+        description: | # this will include new lines to allow paragraphs
+          Cours suivis : Probabilités, Statistiques inférentielles, Tests statistiques, Machine learning (clustering, LDA, QDA, régression logistique, modèles pénalisés),Analyse de données (ACP, AFC, Classification, Régression), Séries temporelles (ARMA/ARIMA), Modèles linéaires et GLM, Bases de données (SQL), Programmation (R, Python, Julia), Production de rapports reproductibles (RMarkdown, \LaTeX), Applications web (Shiny), Gestion de projet (GitHub).
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Project name
+        quote: >
+          Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
