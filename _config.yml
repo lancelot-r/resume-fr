@@ -80,7 +80,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Master 2 Statistiques et Sciences de Données
+        title: Master 2 - Statistiques et Sciences de Données
         quote: >
           Université Grenoble Alpes - Actuel
         description: | # this will include new lines to allow paragraphs
@@ -88,7 +88,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Master 1 Statistiques et Sciences de Données
+        title: Master 1 - Statistiques et Sciences de Données
         quote: >
           Université Grenoble Alpes - 2024/2025 (moyenne : )
         description: | # this will include new lines to allow paragraphs
@@ -96,11 +96,12 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
+        title: Licence Economie Appliquée et Analyse de Données
         quote: >
-          Short overview of the project (optional)
+          Université Grenoble Alpes - 2021/2024
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          Classement : 1/341 (L1), 2/328 (L2), 1/60 (L3)
+          Moyennes : 17.443/20 (L1), 18.022/20 (L2), 16.328/20 (L3)
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
