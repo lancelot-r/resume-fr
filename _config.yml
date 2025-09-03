@@ -107,7 +107,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: <img src="images/expedition5300.png" height="100" style="vertical-align:middle; margin-right:5px;"> <br> Projet Expedition 5300 (Enfants)
+        title: <img src="images/expedition5300.png" height="100" style="vertical-align:middle; margin-right:5px;"> <br> Projet Expedition 5300 (Enfants) <img src="images/R.png" height="50" style="vertical-align:middle; margin-right:5px;">
         link: https://expedition5300.com/nos-recherches/
         link_text: Site officiel du projet
         additional_links:
@@ -121,7 +121,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: <img src="images/iab.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Biomarqueurs pour le cancer du Colon <img src="images/python.png" height="30" style="vertical-align:middle; margin-right:5px;">
+        title: <img src="images/iab.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Biomarqueurs pour le cancer du Colon <img src="images/python.png" height="50" style="vertical-align:middle; margin-right:5px;">
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
@@ -145,7 +145,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Les déterminents de l'utilisation de Glyphosate en France  <img src="images/R.png" height="30" style="vertical-align:middle; margin-right:5px;">
+        title: Les déterminents de l'utilisation de Glyphosate en France  <img src="images/R.png" height="50" style="vertical-align:middle; margin-right:5px;">
         additional_links:
           - title:  Repository du projet
             icon: fab fa-github
@@ -157,7 +157,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Prédiction du prix des logements à Seattle <img src="images/R.png" height="30" style="vertical-align:middle; margin-right:5px;">
+        title: Prédiction du prix des logements à Seattle <img src="images/R.png" height="50" style="vertical-align:middle; margin-right:5px;">
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
