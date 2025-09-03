@@ -67,7 +67,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: <img src="images/expedition5300.png" height="10" style="vertical-align:middle; margin-right:5px;"> <br> Anemia and iron status in children living permanently at high altitude
+        title: <img src="images/expedition5300.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Anemia and iron status in children living permanently at high altitude
         link: https://expedition5300.com/nos-recherches/
         link_text: Projet "Expedition 5300"
         quote: >
@@ -80,7 +80,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Master 2 - Statistiques et Sciences de Données
+        title: <img src="images/miai.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Master 2 - Statistiques et Sciences de Données
         quote: >
           Université Grenoble Alpes - Actuel
         description: | # this will include new lines to allow paragraphs
@@ -88,7 +88,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Master 1 - Statistiques et Sciences de Données
+        title: <img src="images/miai.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Master 1 - Statistiques et Sciences de Données
         quote: >
           Université Grenoble Alpes - 2024/2025
         description: | # this will include new lines to allow paragraphs
@@ -96,7 +96,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Licence - Economie Appliquée & Analyse de Données
+        title: <img src="images/feg.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Licence - Economie Appliquée & Analyse de Données
         quote: >
           Université Grenoble Alpes - 2021/2024
         description: | # this will include new lines to allow paragraphs
@@ -107,7 +107,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: '<img src="images/expedition5300.png" height="50" style="vertical-align:middle; margin-right:5px;">'
+        title: '<img src="images/expedition5300.png" height="100" style="vertical-align:middle; margin-right:5px;">'
         link: https://expedition5300.com/nos-recherches/
         link_text: Site officiel du projet
         additional_links:
