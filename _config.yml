@@ -179,7 +179,7 @@ content:
     layout: list
     content:
       - layout: right
-        title: Schneider Electric
+        title: '<img src="images/schneider.png" height="20" style="vertical-align:middle; margin-right:5px;">
         sub_title: Monteur - Assembleur - Soudeur - Cableur
         caption: Eté 2019 / Eté 2020, Eté 2021, Eté 2024
         quote: >
