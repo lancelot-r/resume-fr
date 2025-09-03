@@ -67,7 +67,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Anemia and iron status in children living permanently at high altitude
+        title: '<img src="images/expedition5300.png" height="10" style="vertical-align:middle; margin-right:5px;">' <br> Anemia and iron status in children living permanently at high altitude
         link: https://expedition5300.com/nos-recherches/
         link_text: Projet "Expedition 5300"
         quote: >
@@ -107,7 +107,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Projet "Expédition 5300"
+        title: '<img src="images/expedition5300.png" height="50" style="vertical-align:middle; margin-right:5px;">'
         link: https://expedition5300.com/nos-recherches/
         link_text: Site officiel du projet
         additional_links:
