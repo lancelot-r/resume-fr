@@ -107,7 +107,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: '<img src="images/expedition5300.png" height="100" style="vertical-align:middle; margin-right:5px;">'
+        title: <img src="images/expedition5300.png" height="100" style="vertical-align:middle; margin-right:5px;"> <br> Projet Expedition 5300 (Enfants)
         link: https://expedition5300.com/nos-recherches/
         link_text: Site officiel du projet
         additional_links:
@@ -121,7 +121,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Biomarqueurs pour le cancer du Colon (Python)
+        title: <img src="images/feg.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Biomarqueurs pour le cancer du Colon <br> <img src="images/python.png" height="30" style="vertical-align:middle; margin-right:5px;">
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
@@ -133,7 +133,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Jeu de BlackJack en Julia (Julia, Pluto)
+        title: Jeu de BlackJack en Julia <br> <img src="images/julia.png" height="30" style="vertical-align:middle; margin-right:5px;">
         additional_links:
           - title:  Repository du package Julia
             icon: fab fa-github
@@ -145,7 +145,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Les déterminents de l'utilisation de Glyphosate en France (R)
+        title: Les déterminents de l'utilisation de Glyphosate en France  <br> <img src="images/r.png" height="30" style="vertical-align:middle; margin-right:5px;">
         additional_links:
           - title:  Repository du projet
             icon: fab fa-github
@@ -157,7 +157,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Prédiction du prix des logements à Seattle
+        title: Prédiction du prix des logements à Seattle <br> <img src="images/r.png" height="30" style="vertical-align:middle; margin-right:5px;">
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
