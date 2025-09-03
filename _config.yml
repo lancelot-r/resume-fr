@@ -174,19 +174,32 @@ content:
           Poste occupé en 2022, 2023 et 2024 à la Faculté d'Economie de l'UGA
         description: | # this will include new lines to allow paragraphs
           Enseignement des mathématiques basiques (Equations / Derivées / Limites) dans des classes de 10 étudiants en Economie-Gestion à la FEG (UGA) et apprentissage des techniques d'enseignement afin de préparer mes séances et d'encadrer au mieux mes élèves durant mes cours.
-          
+
   - title: Experience
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: Schneider Electric
+        sub_title: Monteur - Assembleur - Soudeur - Cableur
+        caption: Eté 2019 / Eté 2020, Eté 2021, Eté 2024
         quote: >
-          Short description of the company (optional)
+          Schneider Electric Ecofit est spécialisée dans la rénovation de disjoncteurs moyenne tension
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Production à la chaine / Manipulation de gaz dangereux / Contrôle qualité
+      - layout: right
+        title: La Poste
+        sub_title: Facteur à vélo
+        caption: Eté 2020 / Eté 2021 / Eté 2022 / Eté 2023
+        quote: >
+          La Poste est le service postal principal en France
+        description: | # this will include new lines to allow paragraphs
+          Distribution de courrier à vélo / Tri de courrier
+      - layout: right
+        title: Schneider Electric
+        sub_title: Assistant Import-Export
+        caption: Avril-Mai 2021
+        description: | # this will include new lines to allow paragraphs
+          Prospection client / Montage d'operations import/export
   - title: Education
     layout: list
     content:
