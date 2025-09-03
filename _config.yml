@@ -90,13 +90,13 @@ content:
                       # other value (or no value) means no border will be displayed
         title: Master 1 - Statistiques et Sciences de Données
         quote: >
-          Université Grenoble Alpes - 2024/2025 (moyenne : )
+          Université Grenoble Alpes - 2024/2025
         description: | # this will include new lines to allow paragraphs
-          Cours suivis : Probabilités, Statistiques inférentielles, Tests statistiques, Machine learning (clustering, LDA, QDA, régression logistique, modèles pénalisés),Analyse de données (ACP, AFC, Classification, Régression), Séries temporelles (ARMA/ARIMA), Modèles linéaires et GLM, Bases de données (SQL), Programmation (R, Python, Julia), Production de rapports reproductibles (RMarkdown, \LaTeX), Applications web (Shiny), Gestion de projet (GitHub).
+          Cours suivis : Probabilités, Statistiques inférentielles, Tests statistiques, Machine learning (clustering, LDA, QDA, régression logistique, modèles pénalisés),Analyse de données (ACP, AFC, Classification, Régression), Séries temporelles (ARMA/ARIMA), Modèles linéaires et GLM, Bases de données (SQL), Programmation (R, Python, Julia), Production de rapports reproductibles (RMarkdown, \LaTeX), Applications web (Shiny), Gestion de projet (GitHub). <br> Moyenne : 15.665/20
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Licence Economie Appliquée et Analyse de Données
+        title: Licence - Economie Appliquée & Analyse de Données
         quote: >
           Université Grenoble Alpes - 2021/2024
         description: | # this will include new lines to allow paragraphs
@@ -107,20 +107,74 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        title: Projet "Expédition 5300"
+        link: https://expedition5300.com/nos-recherches/
+        link_text: Site officiel du projet
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title:  Repository Github personnel
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: https://github.com/lancelot-r/projet_expedition5300_hypoxie_enfants
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Biomarqueurs pour le cancer du Colon (Python)
+        additional_links:
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Réalisé en collaboration avec l'Institut pour l'Avancée des Biosciences (IAB) Grenoble
+        description: | # this will include new lines to allow paragraphs
+          Nettoyage de données et fusion de bases de données (pandas), construction de courbes de survie (lifeline) afin d'analyser la survie de patients selon l'activation de certains gènes, machine-learning (scikit-learn) et analyse statistique sous Python, rédaction d'un rapport reproductible sous Quarto.
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Jeu de BlackJack en Julia (Julia, Pluto)
+        additional_links:
+          - title:  Repository du package Julia
+            icon: fab fa-github
+            url: https://github.com/lancelot-r/ProjetBlackJack.jl
+        quote: >
+          Projet réalisé en 2024 sous la supervision de Remy Drouilhet (IMAG - Grenlble)
+        description: | # this will include new lines to allow paragraphs
+          Codage d'un jeu de blackjack sous Julia sans l'aide de packages, création de l'interface graphique sous Pluto à l'aide d'HTML, comparaison de benchmarks entre Julia/R/C\texttt{++} et codage de différentes fonctions pour illustrer le multiple-dispatching de Julia face au simple-dispatching de R.
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Les déterminents de l'utilisation de Glyphosate en France (R)
+        additional_links:
+          - title:  Repository du projet
+            icon: fab fa-github
+            url: https://github.com/lancelot-r/projet_consommation_glyphosate_france
+        quote: >
+          Projet réalisé en 2023 sous la supervision de Adelaïde Fadhuile (CREG - Grenoble)
+        description: | # this will include new lines to allow paragraphs
+          Constitution de la base de données, creation de variables, analyses descriptives, estimation paramétrique (MCO, Correction de l'heteroscedasticité, variables au carré, variables en log), selection du meilleur modèle, interprétation des paramètres et des résultats des tests statistiques de significativité (tests de Student/Fisher), Verification des hypothèses statistiques (Biais, Heteroscedasticité, test RESET, Colinéarité) et analyse des performances du modèle (ANOVA, surajustement, outliers et facteurs d'inflation de la variance)
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Prédiction du prix des logements à Seattle
+        additional_links:
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Projet réalisé en 2023 sous la supervision de Adelaïde Fadhuile (CREG - Grenoble)
+        description: | # this will include new lines to allow paragraphs
+          Traitement et présentation des données, analyse des relations entre les variables, estimation paramétrique, selection du meilleur modèle (MCO, ecarts-types robustes, variables au carré), interprétation des paramètres, de leurs significativité (t.test) et analyse du modèle final (test de Fisher, normalité des résidus, colinéarité, outliers, test de Chow).
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Enseignant-Tuteur en Mathématiques
+        quote: >
+          Poste occupé en 2022, 2023 et 2024 à la Faculté d'Economie de l'UGA
+        description: | # this will include new lines to allow paragraphs
+          Enseignement des mathématiques basiques (Equations / Derivées / Limites) dans des classes de 10 étudiants en Economie-Gestion à la FEG (UGA) et apprentissage des techniques d'enseignement afin de préparer mes séances et d'encadrer au mieux mes élèves durant mes cours.
+          
   - title: Experience
     layout: list
     content:
