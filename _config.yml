@@ -247,12 +247,14 @@ content:
           Prospection client / Montage d'operations import/export
 
   - title: Un peu plus sur moi
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      <img src="images/alpi.jpeg" width="300" style="vertical-align:middle; margin-right:5px;"> <br>
-      Né d'une mère brésilienne et d'un père français, j'ai depuis ma naissance le goût de la découverte et de la curiosité.
+    layout: list
+    content:
+      - layout: right
+        title: '<img src="images/alpi.png" width="300" style="vertical-align:middle; margin-right:5px;">'
+        description: | # this will include new lines to allow paragraphs
+          - Né d'une mère brésilienne et d'un père français, j'ai depuis ma naissance le goût de la découverte et de la curiosité.
 
-      Lorsque je ne travaille pas, on me trouve généralement sur les sommets des alpes, piolet en main et crampons aux pieds.  
+          - Lorsque je ne travaille pas, on me trouve généralement sur les sommets des alpes, piolet en main et crampons aux pieds. 
 
 # Footer
 footer_show_references: true
