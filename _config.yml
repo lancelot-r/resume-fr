@@ -158,7 +158,7 @@ content:
         quote: >
           Stage de Master 1 réalisé sous la supervision de Samuel VERGES au laboratoire HP2 (Hopital SUD - Echirolles)
         description: | # this will include new lines to allow paragraphs
-         Dans le cadre du projet Expédition 5300, j’ai contribué à la collecte, au traitement et à l’analyse de données physiologiques et hématologiques. J’ai développé des outils statistiques et des modèles prédictifs pour étudier les effets de l’altitude sur les enfants vivant à Lima (150m), Cusco (3400m), Juliaca (3800m) et La Rinconada (5300m). J’ai également participé à la mise en place de seuils de détection et à l’évaluation de différentes définitions épidémiologiques de l'anémie et de la polyglobulie. Enfin, j’ai pris part à la valorisation scientifique du projet en réalisant des figures, des résumés statistiques et des visualisations destinées aux publications et communications associées. <br> Programmation : <img src="images/R.png" height="30" style="vertical-align:middle; margin-right:5px;">
+         Dans le cadre du projet Expédition 5300, j’ai contribué à la collecte, au traitement et à l’analyse de données physiologiques et hématologiques. J’ai développé des outils statistiques et des modèles prédictifs pour étudier les effets de l’altitude sur les enfants vivant à Lima (150m), Cusco (3400m), Juliaca (3800m) et La Rinconada (5300m). J’ai également participé à la mise en place de seuils de détection et à l’évaluation de différentes définitions épidémiologiques de l'anémie et de la polyglobulie. Enfin, j’ai pris part à la valorisation scientifique du projet en réalisant des figures, des résumés statistiques et des visualisations destinées aux publications et communications associées. <br> <b>Programmation :</b> <img src="images/R.png" height="30" style="vertical-align:middle; margin-right:5px;">
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -170,7 +170,7 @@ content:
         quote: >
           Projet tutoré réalisé sous la supervision de Ekaterina FLIN à l'Institut pour l'Avancée des Biosciences (IAB) Grenoble (2024/2025)
         description: | # this will include new lines to allow paragraphs
-          Nettoyage de données et fusion de bases de données (pandas), construction de courbes de survie (lifeline) afin d'analyser la survie de patients selon l'activation de certains gènes, machine-learning (scikit-learn) et analyse statistique sous Python, rédaction d'un rapport reproductible sous Quarto. <br> Programmation : <img src="images/python.png" height="35" style="vertical-align:middle; margin-right:5px;">
+          Nettoyage de données et fusion de bases de données (pandas), construction de courbes de survie (lifeline) afin d'analyser la survie de patients selon l'activation de certains gènes, machine-learning (scikit-learn) et analyse statistique sous Python, rédaction d'un rapport reproductible sous Quarto. <br> <b>Programmation :</b> <img src="images/python.png" height="35" style="vertical-align:middle; margin-right:5px;">
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -182,7 +182,7 @@ content:
         quote: >
           Projet réalisé en 2024 sous la supervision de Remy Drouilhet (IMAG - Grenlble)
         description: | # this will include new lines to allow paragraphs
-          Codage d'un jeu de blackjack sous Julia sans l'aide de packages, création de l'interface graphique sous Pluto à l'aide d'HTML, comparaison de benchmarks entre Julia/R/C\texttt{++} et codage de différentes fonctions pour illustrer le multiple-dispatching de Julia face au simple-dispatching de R. <br> Programmation :
+          Codage d'un jeu de blackjack sous Julia sans l'aide de packages, création de l'interface graphique sous Pluto à l'aide d'HTML, comparaison de benchmarks entre Julia/R/C\texttt{++} et codage de différentes fonctions pour illustrer le multiple-dispatching de Julia face au simple-dispatching de R. <br> <b>Programmation :</b>
           <img src="images/julia.png" height="50" style="vertical-align:middle; margin-right:5px;">
           <img src="images/html.png" height="40" style="vertical-align:middle; margin-right:5px;">
           <img src="images/cpp.png" height="40" style="vertical-align:middle; margin-right:5px;">
@@ -198,7 +198,7 @@ content:
         quote: >
           Projet réalisé en 2023 sous la supervision de Adelaïde Fadhuile (CREG - Grenoble)
         description: | # this will include new lines to allow paragraphs
-          Constitution de la base de données, creation de variables, analyses descriptives, estimation paramétrique (MCO, Correction de l'heteroscedasticité, variables au carré, variables en log), selection du meilleur modèle, interprétation des paramètres et des résultats des tests statistiques de significativité (tests de Student/Fisher), Verification des hypothèses statistiques (Biais, Heteroscedasticité, test RESET, Colinéarité) et analyse des performances du modèle (ANOVA, surajustement, outliers et facteurs d'inflation de la variance). <br> Programmation : <img src="images/R.png" height="30" style="vertical-align:middle; margin-right:5px;">
+          Constitution de la base de données, creation de variables, analyses descriptives, estimation paramétrique (MCO, Correction de l'heteroscedasticité, variables au carré, variables en log), selection du meilleur modèle, interprétation des paramètres et des résultats des tests statistiques de significativité (tests de Student/Fisher), Verification des hypothèses statistiques (Biais, Heteroscedasticité, test RESET, Colinéarité) et analyse des performances du modèle (ANOVA, surajustement, outliers et facteurs d'inflation de la variance). <br> <b>Programmation :</b> <img src="images/R.png" height="30" style="vertical-align:middle; margin-right:5px;">
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -210,7 +210,7 @@ content:
         quote: >
           Projet réalisé en 2023 sous la supervision de Adelaïde Fadhuile (CREG - Grenoble)
         description: | # this will include new lines to allow paragraphs
-          Traitement et présentation des données, analyse des relations entre les variables, estimation paramétrique, selection du meilleur modèle (MCO, ecarts-types robustes, variables au carré), interprétation des paramètres, de leurs significativité (t.test) et analyse du modèle final (test de Fisher, normalité des résidus, colinéarité, outliers, test de Chow). <br> Programmation : <img src="images/R.png" height="30" style="vertical-align:middle; margin-right:5px;">
+          Traitement et présentation des données, analyse des relations entre les variables, estimation paramétrique, selection du meilleur modèle (MCO, ecarts-types robustes, variables au carré), interprétation des paramètres, de leurs significativité (t.test) et analyse du modèle final (test de Fisher, normalité des résidus, colinéarité, outliers, test de Chow). <br> <b>Programmation :</b> <img src="images/R.png" height="30" style="vertical-align:middle; margin-right:5px;">
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
