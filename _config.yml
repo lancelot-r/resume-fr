@@ -54,6 +54,21 @@ about_profile_image: images/pdp.png
 about_content: | # this will include new lines to allow paragraphs
   Passionné par l'application de l'inférence statistique dans le monde réel, je suis à la recherche d'un stage de Master 2 dans le domaine des biostatistiques, me permettant de mettre en application mes connaissances théoriques et d'acquérir l'expérience nécessaire pour poursuivre en thèse dans ce domaine qui me passionne.
 
+  Langues vivantes :
+  <img src="images/france.png" height="40" style="vertical-align:middle; margin-right:5px;">
+  (natif),
+  <img src="images/usa.png" height="40" style="vertical-align:middle; margin-right:5px;">
+  (C1),
+  <img src="images/bresil.png" height="40" style="vertical-align:middle; margin-right:5px;">
+  (natif),
+  <img src="images/espagne.png" height="40" style="vertical-align:middle; margin-right:5px;">
+  (B2),
+  <img src="images/allemagne.png" height="40" style="vertical-align:middle; margin-right:5px;">
+  (A2),
+  <img src="images/russie.png" height="40" style="vertical-align:middle; margin-right:5px;">
+  (A1)
+
+
 content:
   - title: Publication(s) Scientifique(s) # Title for the section
     layout: list # Type of content section (list/text)
