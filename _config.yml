@@ -79,7 +79,14 @@ about_content: | # this will include new lines to allow paragraphs
   <img src="images/git.png" height="40" style="vertical-align:middle; margin-right:5px;" title="Français">
   <img src="images/latex.png" height="40" style="vertical-align:middle; margin-right:5px;" title="Français">
 
+  <hr>
 
+
+
+
+
+
+  
 content:
   - title: Publication(s) Scientifique(s) # Title for the section
     layout: list # Type of content section (list/text)
