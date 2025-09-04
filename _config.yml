@@ -69,11 +69,11 @@ about_content: | # this will include new lines to allow paragraphs
   (A1)
 
   Langages/Logiciels maitrisés:
-  <img src="images/R.png" height="20" style="vertical-align:middle; margin-right:5px;" title="Français">
-  <img src="images/python.png" height="20" style="vertical-align:middle; margin-right:5px;" title="Français">
-  <img src="images/julia.png" height="30" style="vertical-align:middle; margin-right:5px;" title="Français">
-  <img src="images/git.png" height="20" style="vertical-align:middle; margin-right:5px;" title="Français">
-  <img src="images/latex.png" height="20" style="vertical-align:middle; margin-right:5px;" title="Français">
+  <img src="images/R.png" height="40" style="vertical-align:middle; margin-right:5px;" title="Français">
+  <img src="images/python.png" height="40" style="vertical-align:middle; margin-right:5px;" title="Français">
+  <img src="images/julia.png" height="60" style="vertical-align:middle; margin-right:5px;" title="Français">
+  <img src="images/git.png" height="40" style="vertical-align:middle; margin-right:5px;" title="Français">
+  <img src="images/latex.png" height="40" style="vertical-align:middle; margin-right:5px;" title="Français">
 
 
 content:
