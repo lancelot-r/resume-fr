@@ -156,9 +156,9 @@ content:
             icon: fab fa-github
             url: https://github.com/lancelot-r/projet_expedition5300_hypoxie_enfants
         quote: >
-          Dans le cadre du projet Expédition 5300, j’ai contribué à la collecte, au traitement et à l’analyse de données physiologiques et hématologiques. J’ai développé des outils statistiques et des modèles prédictifs pour étudier les effets de l’altitude sur les enfants vivant à Lima (150m), Cusco (3400m), Juliaca (3800m) et La Rinconada (5300m). J’ai également participé à la mise en place de seuils de détection et à l’évaluation de différentes définitions épidémiologiques de l'anémie et de la polyglobulie. Enfin, j’ai pris part à la valorisation scientifique du projet en réalisant des figures, des résumés statistiques et des visualisations destinées aux publications et communications associées.
+          Stage de Master 1 réalisé sous la supervision de Samuel VERGES au laboratoire HP2 (Hopital SUD - Echirolles)
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project <br> Programmation : <img src="images/R.png" height="30" style="vertical-align:middle; margin-right:5px;">
+         Dans le cadre du projet Expédition 5300, j’ai contribué à la collecte, au traitement et à l’analyse de données physiologiques et hématologiques. J’ai développé des outils statistiques et des modèles prédictifs pour étudier les effets de l’altitude sur les enfants vivant à Lima (150m), Cusco (3400m), Juliaca (3800m) et La Rinconada (5300m). J’ai également participé à la mise en place de seuils de détection et à l’évaluation de différentes définitions épidémiologiques de l'anémie et de la polyglobulie. Enfin, j’ai pris part à la valorisation scientifique du projet en réalisant des figures, des résumés statistiques et des visualisations destinées aux publications et communications associées. <br> Programmation : <img src="images/R.png" height="30" style="vertical-align:middle; margin-right:5px;">
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
