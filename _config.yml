@@ -77,7 +77,7 @@ content:
   - title: Diplômes # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: right
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: <img src="images/miai.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Master 2 - Statistiques et Sciences de Données
@@ -85,7 +85,7 @@ content:
           Université Grenoble Alpes - Actuel
         description: | # this will include new lines to allow paragraphs
           Cours suivis : Statistique computationnelle (bootstrap, MCMC, Bayésien), Statistique en grande dimension (tests multiples, Lasso, Ridge), Estimation non paramétrique (noyaux, fonctions de régression), Apprentissage statistique (arbres, SVM, forêts aléatoires, deep learning sous Python), Optimisation (Python, Julia), Biostatistique avancée (modèles de Cox, mixtes, inférence causale), Fiabilité (lois de probabilité, Weibull, maintenance), Fouille de textes (Word2Vec, BERT, NLP avec PyTorch/TensorFlow), Géostatistique et statistique spatiale (krigeage, processus de Poisson, modèles de Gibbs).
-      - layout: left
+      - layout: right
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: <img src="images/miai.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Master 1 - Statistiques et Sciences de Données
@@ -93,7 +93,7 @@ content:
           Université Grenoble Alpes - 2024/2025
         description: | # this will include new lines to allow paragraphs
           Cours suivis : Probabilités, Statistiques inférentielles, Tests statistiques, Machine learning (clustering, LDA, QDA, régression logistique, modèles pénalisés),Analyse de données (ACP, AFC, Classification, Régression), Séries temporelles (ARMA/ARIMA), Modèles linéaires et GLM, Bases de données (SQL), Programmation (R, Python, Julia), Production de rapports reproductibles (RMarkdown, \LaTeX), Applications web (Shiny), Gestion de projet (GitHub). <br> Moyenne : 15.665/20
-      - layout: left
+      - layout: right
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: <img src="images/feg.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Licence - Economie Appliquée & Analyse de Données
