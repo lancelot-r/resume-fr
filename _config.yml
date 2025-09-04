@@ -86,7 +86,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 
-  
+
 content:
   - title: Publication(s) Scientifique(s) # Title for the section
     layout: list # Type of content section (list/text)
@@ -226,7 +226,7 @@ content:
       - layout: right
         title: '<img src="images/schneider.png" height="50" style="vertical-align:middle; margin-right:5px;">'
         sub_title: Monteur - Assembleur - Soudeur - Cableur
-        caption: Eté 2019 / Eté 2020, Eté 2021, Eté 2024
+        caption: Eté 2019 / 2020 / 2021 / 2024
         quote: >
           Schneider Electric Ecofit est spécialisée dans la rénovation de disjoncteurs moyenne tension
         description: | # this will include new lines to allow paragraphs
@@ -234,7 +234,7 @@ content:
       - layout: right
         title: '<img src="images/laposte.png" height="50" style="vertical-align:middle; margin-right:5px;">'
         sub_title: Facteur à vélo
-        caption: Eté 2020 / Eté 2021 / Eté 2022 / Eté 2023
+        caption: Eté 2020 / 2021 / 2022 / 2023
         quote: >
           La Poste est le service postal principal en France
         description: | # this will include new lines to allow paragraphs
@@ -246,12 +246,12 @@ content:
         description: | # this will include new lines to allow paragraphs
           Prospection client / Montage d'operations import/export
 
-  - title: A Little More About Me
+  - title: Un peu plus sur moi
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+      Né d'une mère brésilienne et d'un père français, j'ai depuis ma naissance le goût de la découverte et de la curiosité.
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      Lorsque je ne travaille pas, on me trouve généralement sur les sommets des alpes, piolet en main et crampons aux pieds.  
 
 # Footer
 footer_show_references: true
