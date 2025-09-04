@@ -142,7 +142,7 @@ content:
         quote: >
           Université Grenoble Alpes - 2024/2025
         description: | # this will include new lines to allow paragraphs
-          Cours suivis : Probabilités, Statistiques inférentielles, Tests statistiques, Machine learning (clustering, LDA, QDA, régression logistique, modèles pénalisés),Analyse de données (ACP, AFC, Classification, Régression), Séries temporelles (ARMA/ARIMA), Modèles linéaires et GLM, Bases de données (SQL), Programmation (R, Python, Julia), Production de rapports reproductibles (RMarkdown, \LaTeX), Applications web (Shiny), Gestion de projet (GitHub). <br> <mark>Moyenne : 15.665/20<\mark>
+          Cours suivis : Probabilités, Statistiques inférentielles, Tests statistiques, Machine learning (clustering, LDA, QDA, régression logistique, modèles pénalisés),Analyse de données (ACP, AFC, Classification, Régression), Séries temporelles (ARMA/ARIMA), Modèles linéaires et GLM, Bases de données (SQL), Programmation (R, Python, Julia), Production de rapports reproductibles (RMarkdown, \LaTeX), Applications web (Shiny), Gestion de projet (GitHub). <br> <mark>Moyenne : 15.665/20</mark>
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -150,7 +150,7 @@ content:
         quote: >
           Université Grenoble Alpes - 2021/2024
         description: | # this will include new lines to allow paragraphs
-          Classement : <mark>1/341 (L1)<\mark>, <mark>2/328 (L2)<\mark>, <mark>1/60 (L3)<\mark> <br> Moyennes : <mark>17.443/20 (L1)<\mark>, <mark>18.022/20 (L2)<\mark>, <mark>16.328/20 (L3)<\mark>
+          Classement : <mark>1/341 (L1)</mark>, <mark>2/328 (L2)</mark>, <mark>1/60 (L3)</mark> <br> Moyennes : <mark>17.443/20 (L1)</mark>, <mark>18.022/20 (L2)</mark>, <mark>16.328/20 (L3)</mark>
   - title: Projets universitaires et expériences académiques # Title for the section
     layout: list # Type of content section (list/text)
     content:
