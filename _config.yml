@@ -113,7 +113,19 @@ content:
         quote: >
           Université Grenoble Alpes - 2024/2025
         description: | # this will include new lines to allow paragraphs
-          Cours suivis : Probabilités, Statistiques inférentielles, Tests statistiques, Machine learning (clustering, LDA, QDA, régression logistique, modèles pénalisés),Analyse de données (ACP, AFC, Classification, Régression), Séries temporelles (ARMA/ARIMA), Modèles linéaires et GLM, Bases de données (SQL), Programmation (R, Python, Julia), Production de rapports reproductibles (RMarkdown, \LaTeX), Applications web (Shiny), Gestion de projet (GitHub). <br> <mark>Moyenne : 15.665/20</mark>
+          Cours suivis : 
+          <b>Probabilités</b>, 
+          <b>Statistiques inférentielles</b>, 
+          <b>Tests statistiques</b>, 
+          <b>Machine learning</b> (clustering, LDA, QDA, régression logistique, modèles pénalisés), 
+          <b>Analyse de données</b> (ACP, AFC, Classification, Régression), 
+          <b>Séries temporelles</b> (ARMA/ARIMA), 
+          <b>Modèles linéaires et GLM</b>, 
+          <b>Bases de données</b> (SQL), 
+          <b>Programmation</b> (R, Python, Julia), 
+          <b>Production de rapports reproductibles</b> (RMarkdown, \LaTeX), 
+          <b>Applications web</b> (Shiny), 
+          <b>Gestion de projet</b> (GitHub). <br> <mark>Moyenne : 15.665/20</mark>
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
