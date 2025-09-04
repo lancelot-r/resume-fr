@@ -85,7 +85,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        border: none  # Value of `weak` will display a weak border below this item. # Any 
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: <img src="images/expedition5300.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Anemia and iron status in children living permanently at high altitude
         link: https://expedition5300.com/nos-recherches/
@@ -94,6 +94,36 @@ content:
           Effet de l'altitude sur le développement des enfants de 6 mois à 12 ans vivant au Pérou
         description: | # this will include new lines to allow paragraphs
           Publication scientifique en cours de rédaction en vue d'une soumission fin 2025 à la suite de mon stage effectué au laboratoire HP2 pour le projet "Expedition 5300", dans lequel j'ai effectué la partie analyse de données.
+
+  - title: Diplômes
+    layout: list
+    content:
+      - layout: top-right
+        title: <img src="images/miai.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Master 2 - Statistiques et Sciences de Données
+        sub_title: Université Grenoble Alpes
+        caption: 2025 - Actuel
+        quote: >
+          Cours + stage de 6 mois
+        description: | # this will include new lines to allow paragraphs
+          Cours suivis : Statistique computationnelle (bootstrap, MCMC, Bayésien), Statistique en grande dimension (tests multiples, Lasso, Ridge), Estimation non paramétrique (noyaux, fonctions de régression), Apprentissage statistique (arbres, SVM, forêts aléatoires, deep learning sous Python), Optimisation (Python, Julia), Biostatistique avancée (modèles de Cox, mixtes, inférence causale), Fiabilité (lois de probabilité, Weibull, maintenance), Fouille de textes (Word2Vec, BERT, NLP avec PyTorch/TensorFlow), Géostatistique et statistique spatiale (krigeage, processus de Poisson, modèles de Gibbs).
+
+      - layout: top-right
+        title: <img src="images/miai.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Master 1 - Statistiques et Sciences de Données
+        sub_title: Université Grenoble Alpes
+        caption: 2024 - 2025
+        quote: >
+          Cours + stage de 3 mois
+        description: | # this will include new lines to allow paragraphs
+          Cours suivis : Probabilités, Statistiques inférentielles, Tests statistiques, Machine learning (clustering, LDA, QDA, régression logistique, modèles pénalisés),Analyse de données (ACP, AFC, Classification, Régression), Séries temporelles (ARMA/ARIMA), Modèles linéaires et GLM, Bases de données (SQL), Programmation (R, Python, Julia), Production de rapports reproductibles (RMarkdown, \LaTeX), Applications web (Shiny), Gestion de projet (GitHub). <br> Moyenne : 15.665/20 
+      - layout: top-right
+        title: <img src="images/miai.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Master 2 - Statistiques et Sciences de Données
+        sub_title: Université Grenoble Alpes
+        caption: 2021-2022-2023-2024
+        quote: >
+          Diplôme de Licence validé
+        description: | # this will include new lines to allow paragraphs
+          Classement : 1/341 (L1), 2/328 (L2), 1/60 (L3) <br> Moyennes : 17.443/20 (L1), 18.022/20 (L2), 16.328/20 (L3)
+
   - title: Diplômes # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -112,7 +142,7 @@ content:
         quote: >
           Université Grenoble Alpes - 2024/2025
         description: | # this will include new lines to allow paragraphs
-          Cours suivis : Probabilités, Statistiques inférentielles, Tests statistiques, Machine learning (clustering, LDA, QDA, régression logistique, modèles pénalisés),Analyse de données (ACP, AFC, Classification, Régression), Séries temporelles (ARMA/ARIMA), Modèles linéaires et GLM, Bases de données (SQL), Programmation (R, Python, Julia), Production de rapports reproductibles (RMarkdown, \LaTeX), Applications web (Shiny), Gestion de projet (GitHub). <br> Moyenne : 15.665/20
+          Cours suivis : Probabilités, Statistiques inférentielles, Tests statistiques, Machine learning (clustering, LDA, QDA, régression logistique, modèles pénalisés),Analyse de données (ACP, AFC, Classification, Régression), Séries temporelles (ARMA/ARIMA), Modèles linéaires et GLM, Bases de données (SQL), Programmation (R, Python, Julia), Production de rapports reproductibles (RMarkdown, \LaTeX), Applications web (Shiny), Gestion de projet (GitHub). <br> <mark>Moyenne : 15.665/20<\mark>
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -120,7 +150,7 @@ content:
         quote: >
           Université Grenoble Alpes - 2021/2024
         description: | # this will include new lines to allow paragraphs
-          Classement : 1/341 (L1), 2/328 (L2), 1/60 (L3) <br> Moyennes : 17.443/20 (L1), 18.022/20 (L2), 16.328/20 (L3)
+          Classement : <mark>1/341 (L1)<\mark>, <mark>2/328 (L2)<\mark>, <mark>1/60 (L3)<\mark> <br> Moyennes : <mark>17.443/20 (L1)<\mark>, <mark>18.022/20 (L2)<\mark>, <mark>16.328/20 (L3)<\mark>
   - title: Projets universitaires et expériences académiques # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -224,17 +254,7 @@ content:
         caption: Avril-Mai 2021
         description: | # this will include new lines to allow paragraphs
           Prospection client / Montage d'operations import/export
-  - title: Education
-    layout: list
-    content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
