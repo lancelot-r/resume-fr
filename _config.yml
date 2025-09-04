@@ -106,7 +106,7 @@ content:
           Université Grenoble Alpes - Actuel
         description: | # this will include new lines to allow paragraphs
           Cours suivis : <b>Statistique computationnelle</b> (bootstrap, MCMC, Bayésien), <b>Statistique en grande dimension</b> (tests multiples, Lasso, Ridge), <b>Estimation non paramétrique</b> (noyaux, fonctions de régression), <b>Machine Learning</b> (arbres, SVM, forêts aléatoires, deep learning sous Python), <b>Optimisation</b> (Python, Julia), <b>Biostatistique avancée</b> (modèles de Cox, mixtes, inférence causale), <b>Fiabilité</b> (lois de probabilité, Weibull, maintenance), <b>Fouille de textes</b> (Word2Vec, BERT, NLP avec PyTorch/TensorFlow), <b>Géostatistique et statistique spatiale</b> (krigeage, processus de Poisson, modèles de Gibbs).
-      - layout: center
+      - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: <img src="images/miai.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Master 1 - Statistiques et Sciences de Données
@@ -122,6 +122,7 @@ content:
           Université Grenoble Alpes - 2021/2022, 2022/2023, 2023/2024 (Mention Bien)
         description: | # this will include new lines to allow paragraphs
           Classement : <mark>1/341 (L1)</mark>, <mark>2/328 (L2)</mark>, <mark>1/60 (L3)</mark> <br> Moyennes : <mark>17.443/20 (L1)</mark>, <mark>18.022/20 (L2)</mark>, <mark>16.328/20 (L3)</mark>
+
   - title: Projets universitaires et expériences académiques # Title for the section
     layout: list # Type of content section (list/text)
     content:
