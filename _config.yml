@@ -250,7 +250,7 @@ content:
     layout: list
     content:
       - layout: right
-        title: '<img src="images/alpi.jpeg" height="800" style="vertical-align:middle; margin-right:5px;">'
+        title: '<img src="images/alpi.jpeg" width="300" style="vertical-align:middle; margin-right:5px;">'
         description: | # this will include new lines to allow paragraphs
           Né d'une mère brésilienne et d'un père français, j'ai depuis ma naissance le goût de la découverte et de la curiosité.
 
