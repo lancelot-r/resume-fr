@@ -93,7 +93,7 @@ content:
           Université Grenoble Alpes - 2024/2025
         description: | # this will include new lines to allow paragraphs
           Cours suivis : Probabilités, Statistiques inférentielles, Tests statistiques, Machine learning (clustering, LDA, QDA, régression logistique, modèles pénalisés),Analyse de données (ACP, AFC, Classification, Régression), Séries temporelles (ARMA/ARIMA), Modèles linéaires et GLM, Bases de données (SQL), Programmation (R, Python, Julia), Production de rapports reproductibles (RMarkdown, \LaTeX), Applications web (Shiny), Gestion de projet (GitHub). <br> Moyenne : 15.665/20
-      - layout: right
+      - layout: home
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: <img src="images/feg.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Licence - Economie Appliquée & Analyse de Données
