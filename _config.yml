@@ -49,7 +49,7 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-about_title: A propos de Moi
+about_title: A propos de moi
 about_profile_image: images/pdp.png
 about_content: | # this will include new lines to allow paragraphs
   Passionné par l'application de l'inférence statistique dans le monde réel, je suis à la recherche d'un stage de Master 2 dans le domaine des biostatistiques, me permettant de mettre en application mes connaissances théoriques et d'acquérir l'expérience nécessaire pour poursuivre en thèse dans ce domaine qui me passionne.
@@ -85,7 +85,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+        border: none  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: <img src="images/expedition5300.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Anemia and iron status in children living permanently at high altitude
         link: https://expedition5300.com/nos-recherches/
