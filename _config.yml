@@ -196,7 +196,7 @@ content:
             icon: fab fa-github
             url: https://github.com/lancelot-r/projet_consommation_glyphosate_france
         quote: >
-          Projet réalisé en 2023 sous la supervision de Adelaïde Fadhuile (CREG - Grenoble)
+          Projet réalisé en 2023 sous la supervision de Adelaïde Fadhuile (GAEL - Grenoble)
         description: | # this will include new lines to allow paragraphs
           Constitution de la base de données, creation de variables, analyses descriptives, estimation paramétrique (MCO, Correction de l'heteroscedasticité, variables au carré, variables en log), selection du meilleur modèle, interprétation des paramètres et des résultats des tests statistiques de significativité (tests de Student/Fisher), Verification des hypothèses statistiques (Biais, Heteroscedasticité, test RESET, Colinéarité) et analyse des performances du modèle (ANOVA, surajustement, outliers et facteurs d'inflation de la variance). <br> <b>Programmation :</b> <img src="images/R.png" height="30" style="vertical-align:middle; margin-right:5px;">
       - layout: left
@@ -208,7 +208,7 @@ content:
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Projet réalisé en 2023 sous la supervision de Adelaïde Fadhuile (CREG - Grenoble)
+          Projet réalisé en 2023 sous la supervision de Adelaïde Fadhuile (GAEL - Grenoble)
         description: | # this will include new lines to allow paragraphs
           Traitement et présentation des données, analyse des relations entre les variables, estimation paramétrique, selection du meilleur modèle (MCO, ecarts-types robustes, variables au carré), interprétation des paramètres, de leurs significativité (t.test) et analyse du modèle final (test de Fisher, normalité des résidus, colinéarité, outliers, test de Chow). <br> <b>Programmation :</b> <img src="images/R.png" height="30" style="vertical-align:middle; margin-right:5px;">
       - layout: left
