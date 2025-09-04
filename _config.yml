@@ -55,18 +55,25 @@ about_content: | # this will include new lines to allow paragraphs
   Passionné par l'application de l'inférence statistique dans le monde réel, je suis à la recherche d'un stage de Master 2 dans le domaine des biostatistiques, me permettant de mettre en application mes connaissances théoriques et d'acquérir l'expérience nécessaire pour poursuivre en thèse dans ce domaine qui me passionne.
 
   Langues vivantes :
-  <img src="images/france.png" height="20" style="vertical-align:middle; margin-right:5px;">
+  <img src="images/france.png" height="20" style="vertical-align:middle; margin-right:5px;" title="Français">
   (natif),
-  <img src="images/usa.png" height="20" style="vertical-align:middle; margin-right:5px;">
+  <img src="images/usa.png" height="20" style="vertical-align:middle; margin-right:5px;" title="Anglais">
   (C1),
-  <img src="images/bresil.png" height="20" style="vertical-align:middle; margin-right:5px;">
+  <img src="images/bresil.png" height="20" style="vertical-align:middle; margin-right:5px;" title="Portugais (Brésil)">
   (natif),
-  <img src="images/espagne.png" height="20" style="vertical-align:middle; margin-right:5px;">
+  <img src="images/espagne.png" height="20" style="vertical-align:middle; margin-right:5px;" title="Espagnol">
   (B2),
-  <img src="images/allemagne.png" height="20" style="vertical-align:middle; margin-right:5px;">
-  (A2),
-  <img src="images/russie.png" height="20" style="vertical-align:middle; margin-right:5px;">
+  <img src="images/allemagne.png" height="20" style="vertical-align:middle; margin-right:5px;" title="Allemand">
+  (A1),
+  <img src="images/russie.png" height="20" style="vertical-align:middle; margin-right:5px;" title="Russe">
   (A1)
+
+  Langages/Logiciels maitrisés:
+  <img src="images/R.png" height="20" style="vertical-align:middle; margin-right:5px;" title="Français">
+  <img src="images/python.png" height="20" style="vertical-align:middle; margin-right:5px;" title="Français">
+  <img src="images/julia.png" height="30" style="vertical-align:middle; margin-right:5px;" title="Français">
+  <img src="images/git.png" height="20" style="vertical-align:middle; margin-right:5px;" title="Français">
+  <img src="images/latex.png" height="20" style="vertical-align:middle; margin-right:5px;" title="Français">
 
 
 content:
