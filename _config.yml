@@ -129,7 +129,7 @@ content:
         quote: >
           Réalisé en collaboration avec l'Institut pour l'Avancée des Biosciences (IAB) Grenoble (2024/2025)
         description: | # this will include new lines to allow paragraphs
-          Nettoyage de données et fusion de bases de données (pandas), construction de courbes de survie (lifeline) afin d'analyser la survie de patients selon l'activation de certains gènes, machine-learning (scikit-learn) et analyse statistique sous Python, rédaction d'un rapport reproductible sous Quarto. <br> Programmation : <img src="images/python.png" height="30" style="vertical-align:middle; margin-right:5px;">
+          Nettoyage de données et fusion de bases de données (pandas), construction de courbes de survie (lifeline) afin d'analyser la survie de patients selon l'activation de certains gènes, machine-learning (scikit-learn) et analyse statistique sous Python, rédaction d'un rapport reproductible sous Quarto. <br> Programmation : <img src="images/python.png" height="35" style="vertical-align:middle; margin-right:5px;">
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
