@@ -254,7 +254,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Né d'une mère brésilienne et d'un père français, j'ai depuis ma naissance le goût de la découverte et de la curiosité.
 
-          - Lorsque je ne travaille pas, on me trouve généralement sur les sommets des alpes, piolet en main et crampons aux pieds. 
+          - Lorsque je ne travaille pas, on me trouve généralement sur les sommets des alpes, piolet en main et crampons aux pieds. Lors de cette saison 2024, j'ai pu faire, entre-autres : <b>Pic de La Grave</b> 3628m, <b>Gran Paradiso</b> 4061m, <b>Mont Blanc</b> 4806m, <b>Barre des Ecrins</b> 4102m
 
 # Footer
 footer_show_references: true
