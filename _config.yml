@@ -97,7 +97,7 @@ content:
   - title: Diplômes # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: right
+      - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: <img src="images/miai.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Master 2 - Statistiques et Sciences de Données
