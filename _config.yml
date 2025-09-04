@@ -133,7 +133,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: <img src="images/miai.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Jeu de BlackJack en Julia
+        title: <img src="images/miai.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Jeu de BlackJack en Julia (Package)
         additional_links:
           - title:  Repository du package Julia
             icon: fab fa-github
