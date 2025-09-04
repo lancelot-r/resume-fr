@@ -49,16 +49,10 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-about_title: A propos de moi
+about_title: A propos de Moi
 about_profile_image: images/pdp.png
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  Passionné par l'application de l'inférence statistique dans le monde réel, je suis à la recherche d'un stage de Master 2 dans le domaine des biostatistiques, me permettant de mettre en application mes connaissances théoriques et d'acquérir l'expérience nécessaire pour poursuivre en thèse dans ce domaine qui me passionne.
 
 content:
   - title: Publication(s) Scientifique(s) # Title for the section
@@ -145,7 +139,7 @@ content:
           <img src="images/julia.png" height="50" style="vertical-align:middle; margin-right:5px;">
           <img src="images/html.png" height="40" style="vertical-align:middle; margin-right:5px;">
           <img src="images/cpp.png" height="40" style="vertical-align:middle; margin-right:5px;">
-          <img src="images/R.png" height="40" style="vertical-align:middle; margin-right:5px;">
+          <img src="images/R.png" height="30" style="vertical-align:middle; margin-right:5px;">
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
