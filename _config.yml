@@ -52,13 +52,12 @@ linkedin_username: ravierl
 about_title: A propos de moi
 about_profile_image: images/pdp.png
 about_content: | # this will include new lines to allow paragraphs
-  <p style="margin-top:15px;">
-    <a href="files/cv.pdf" class="btn btn-primary" target="_blank" style="font-size:16px;">
-      📄 Télécharger mon CV simplifié (PDF)
-    </a>
-  </p>
-
-  Passionné par l'application de l'intelligence artificielle dans le monde réel, je suis à la recherche d'un stage de Master 2 dans le domaine de l'IA et du machine learning, me permettant de mettre en application mes connaissances théoriques et d'acquérir l'expérience nécessaire pour poursuivre en thèse dans ce domaine qui me passionne.
+  <p style="margin-top:10px;">
+      <a href="files/cv.pdf" class="btn btn-primary" target="_blank" style="font-size:16px;">
+        📄 Télécharger mon CV simplifié (PDF)
+      </a>
+    </p>
+  Passionné par l'application des statistiques et leur impact sur le monde réel, je recherche un stage de Master 2 en modélisation statistique dans le domaine de la santé, afin de mettre en pratique mes connaissances et préparer une future thèse.
 
   <hr>
 
