@@ -7,13 +7,15 @@ version: 2
 
 # Personal info
 name: Lancelot Ravier
-title: Etudiant en Master Statistiques et Sciences de Données
+title: |
+  Etudiant en Master Statistiques et Sciences de Données
 
   <p style="margin-top:15px;">
       <a href="files/cv.pdf" class="btn btn-primary" target="_blank" style="font-size:16px;">
         📄 Télécharger mon CV simplifié (PDF)
       </a>
     </p>
+    
 email: lancelotravier@gmail.com
 # email_title: Email (Email title override)
 phone: +33 6 98 24 23 63
