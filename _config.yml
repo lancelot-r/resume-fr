@@ -212,7 +212,7 @@ content:
         additional_links:
           - title:  Repository du projet
             icon: fab fa-github
-            url: https://github.com/lancelot-r/projet_consommation_glyphosate_france
+            url: https://github.com/lancelot-r/projet_consommation_glyphosate_france/blob/main/projet.pdf
         quote: >
           Projet réalisé en 2023 sous la supervision de Adelaïde Fadhuile (GAEL - Grenoble)
         description: | # this will include new lines to allow paragraphs
@@ -224,7 +224,7 @@ content:
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: https://github.com/lancelot-r/projet_prix_logements_king_county/blob/main/projet.pdf
         quote: >
           Projet réalisé en 2023 sous la supervision de Adelaïde Fadhuile (GAEL - Grenoble)
         description: | # this will include new lines to allow paragraphs
