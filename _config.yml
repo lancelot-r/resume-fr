@@ -190,6 +190,21 @@ content:
           <img src="images/html.png" height="40" style="vertical-align:middle; margin-right:5px;">
           <img src="images/cpp.png" height="40" style="vertical-align:middle; margin-right:5px;">
           <img src="images/R.png" height="30" style="vertical-align:middle; margin-right:5px;">
+
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: <img src="images/miai.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Modélisation temporelle de la consommation d'énergie / température à Tétouan (Maroc) 
+        additional_links:
+          - title:  Repository du pprojet
+            icon: fab fa-github
+            url: https://github.com/lancelot-r/projet_electricite_temperature/blob/main/rapport.pdf
+        quote: >
+          Projet réalisé en 2025 sous la supervision de Frédérique Leblanc (LJK - Grenlble)
+        description: | # this will include new lines to allow paragraphs
+          Modélisation de la consommation électrique et de la température estivales à Tétouan (Maroc) à partir de données horaires (2017), mise en place et comparaison de modèles de prévision (SARIMA manuel/auto, Holt-Winters ETS) avec évaluation via AIC, BIC et RMSE, étude de la corrélation entre température et consommation (forecast, tseries, ggplot2), analyse de séries temporelles, modélisation statistique.
+          <img src="images/R.png" height="30" style="vertical-align:middle; margin-right:5px;">
+
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
