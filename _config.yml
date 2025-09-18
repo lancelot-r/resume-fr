@@ -169,7 +169,7 @@ content:
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
-            url: https://github.com/lancelot-r/projet_expedition5300_hypoxie_enfants
+            url: https://github.com/lancelot-r/projet_prognostic_biomarkers_in_colon_cancer/blob/main/01_final_report.pdf
         quote: >
           Projet tutoré réalisé sous la supervision de Ekaterina FLIN à l'Institut pour l'Avancée des Biosciences (IAB) Grenoble (2024/2025)
         description: | # this will include new lines to allow paragraphs
