@@ -55,7 +55,7 @@ about_title: A propos de moi
 about_profile_image: images/pdp.png
 about_content: | # this will include new lines to allow paragraphs
 
-  Passionné par l'application des statistiques et leur impact sur le monde réel, je recherche un stage de Master 2 en modélisation statistique dans le domaine de la santé, afin de mettre en pratique mes connaissances et préparer une future thèse.
+  Passionné par l'application des statistiques et leur impact sur le monde réel, je recherche un stage de Master 2 en modélisation statistique dans le domaine de la santé, afin de mettre en pratique mes connaissances et <b>préparer une future thèse<\b>.
 
   <hr>
 
@@ -161,7 +161,7 @@ content:
         quote: >
           Stage de Master 1 réalisé sous la supervision de Samuel VERGES au laboratoire HP2 (Hopital SUD - Echirolles)
         description: | # this will include new lines to allow paragraphs
-         Dans le cadre du projet Expédition 5300, j’ai contribué à la collecte, au traitement et à l’analyse de données physiologiques et hématologiques. J’ai développé des outils statistiques et des modèles prédictifs pour étudier les effets de l’altitude sur les enfants vivant à Lima (150m), Cusco (3400m), Juliaca (3800m) et La Rinconada (5300m). J’ai également participé à la mise en place de seuils de détection et à l’évaluation de différentes définitions épidémiologiques de l'anémie et de la polyglobulie. Enfin, j’ai pris part à la valorisation scientifique du projet en réalisant des figures, des résumés statistiques et des visualisations destinées aux publications et communications associées. <br> <b>Programmation :</b> <img src="images/R.png" height="30" style="vertical-align:middle; margin-right:5px;">
+         Dans le cadre du projet Expédition 5300, j’ai commencé par lire les articles scientifique (anglais) mis a disposition par mon superviseur pour m'inprégner du sujet, puis j'ai contribué à la collecte, au traitement et à l’analyse de données physiologiques et hématologiques en choisissant les outils statistiques adéquat pour quantifier les effets de l’altitude sur le développement des enfants vivant à Lima (150m), Cusco (3400m), Juliaca (3800m) et La Rinconada (5300m). J’ai également participé à la mise en place de seuils de détection et à l’évaluation de différentes définitions épidémiologiques de l'anémie et de la polyglobulie. Enfin, j’ai pris part à la valorisation scientifique du projet en réalisant des figures, des résumés statistiques et des visualisations destinées aux publications et communications associées. <br> <b>Programmation :</b> <img src="images/R.png" height="30" style="vertical-align:middle; margin-right:5px;">
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -173,7 +173,7 @@ content:
         quote: >
           Projet tutoré réalisé sous la supervision de Ekaterina FLIN à l'Institut pour l'Avancée des Biosciences (IAB) Grenoble (2024/2025)
         description: | # this will include new lines to allow paragraphs
-          Nettoyage de données et fusion de bases de données (pandas), construction de courbes de survie (lifeline) afin d'analyser la survie de patients selon l'activation de certains gènes, machine-learning (scikit-learn) et analyse statistique sous Python, rédaction d'un rapport reproductible sous Quarto. <br> <b>Programmation :</b> <img src="images/python.png" height="35" style="vertical-align:middle; margin-right:5px;">
+          Comparaison des performances de detection du cancer du colon selon l'anticorp choisi à l'aide des courbes de survies, des tests de log-rank et des modèles de cox et développement de modèles de machine-learning pour détecter certaines tumeurs aux besions de traitemnet particulier à l'aide des données d'expression et de methylation de gênes. <br> <b>Programmation :</b> <img src="images/python.png" height="35" style="vertical-align:middle; margin-right:5px;">
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -185,7 +185,7 @@ content:
         quote: >
           Projet réalisé en 2024 sous la supervision de Remy Drouilhet (IMAG - Grenlble)
         description: | # this will include new lines to allow paragraphs
-          Codage d'un jeu de blackjack sous Julia sans l'aide de packages, création de l'interface graphique sous Pluto à l'aide d'HTML, comparaison de benchmarks entre Julia/R/C\texttt{++} et codage de différentes fonctions pour illustrer le multiple-dispatching de Julia face au simple-dispatching de R. <br> <b>Programmation :</b>
+          Codage d'un jeu de Blackjack sous Julia sans l'aide de packages, création de l'interface graphique sous Pluto à l'aide de code HTML, benchmarks entre Julia/R/C\texttt{++} et codage de différentes fonctions pour illustrer le multiple-dispatching de Julia face au simple-dispatching de R. <br> <b>Programmation :</b>
           <img src="images/julia.png" height="50" style="vertical-align:middle; margin-right:5px;">
           <img src="images/html.png" height="40" style="vertical-align:middle; margin-right:5px;">
           <img src="images/cpp.png" height="40" style="vertical-align:middle; margin-right:5px;">
@@ -202,7 +202,7 @@ content:
         quote: >
           Projet réalisé en 2025 sous la supervision de Frédérique Leblanc (LJK - Grenlble)
         description: | # this will include new lines to allow paragraphs
-          Modélisation de la consommation électrique et de la température estivales à Tétouan (Maroc) à partir de données horaires (2017), mise en place et comparaison de modèles de prévision (SARIMA manuel/auto, Holt-Winters ETS) avec évaluation via AIC, BIC et RMSE, étude de la corrélation entre température et consommation (forecast, tseries, ggplot2), analyse de séries temporelles, modélisation statistique.
+          Modélisation de la consommation électrique et de la température pour l'été 2017 à Tétouan (Maroc) à partir de données horaires (base de donneés publique), mise en place et comparaison de modèles de prévision (SARIMA manuel/auto, Holt-Winters ETS) avec évaluation via AIC, BIC et RMSE et étude de la corrélation entre température et consommation (forecast, tseries, ggplot2).
           <img src="images/R.png" height="30" style="vertical-align:middle; margin-right:5px;">
 
       - layout: left
@@ -216,7 +216,7 @@ content:
         quote: >
           Projet réalisé en 2023 sous la supervision de Adelaïde Fadhuile (GAEL - Grenoble)
         description: | # this will include new lines to allow paragraphs
-          Constitution de la base de données, creation de variables, analyses descriptives, estimation paramétrique (MCO, Correction de l'heteroscedasticité, variables au carré, variables en log), selection du meilleur modèle, interprétation des paramètres et des résultats des tests statistiques de significativité (tests de Student/Fisher), Verification des hypothèses statistiques (Biais, Heteroscedasticité, test RESET, Colinéarité) et analyse des performances du modèle (ANOVA, surajustement, outliers et facteurs d'inflation de la variance). <br> <b>Programmation :</b> <img src="images/R.png" height="30" style="vertical-align:middle; margin-right:5px;">
+          Recherche et concaténation des bases de données liées à l'achat de glyphosate et aux caracteristiques des terrains agricoles par département puis recherche du meilleur modèle linéaire afin de rechercher et quantifier l'influence des variables agricoles consommation de glyphosate en France. <br> <b>Programmation :</b> <img src="images/R.png" height="30" style="vertical-align:middle; margin-right:5px;">
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -228,7 +228,7 @@ content:
         quote: >
           Projet réalisé en 2023 sous la supervision de Adelaïde Fadhuile (GAEL - Grenoble)
         description: | # this will include new lines to allow paragraphs
-          Traitement et présentation des données, analyse des relations entre les variables, estimation paramétrique, selection du meilleur modèle (MCO, ecarts-types robustes, variables au carré), interprétation des paramètres, de leurs significativité (t.test) et analyse du modèle final (test de Fisher, normalité des résidus, colinéarité, outliers, test de Chow). <br> <b>Programmation :</b> <img src="images/R.png" height="30" style="vertical-align:middle; margin-right:5px;">
+          Traitement et présentation des données de vente de biens immobiliers dans le comté de King à Washington (USA), analyse des relations entre les caracteristiques et le prix des logements, puis constitution d'un modèle linéaire pour la prédiction du prix des logements selon leurs caracteristiques. <br> <b>Programmation :</b> <img src="images/R.png" height="30" style="vertical-align:middle; margin-right:5px;">
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -236,7 +236,7 @@ content:
         quote: >
           Poste occupé en 2022, 2023 et 2024 à la Faculté d'Economie de l'UGA
         description: | # this will include new lines to allow paragraphs
-          Enseignement des mathématiques basiques (Equations / Derivées / Limites) dans des classes de 10 étudiants en Economie-Gestion à la FEG (UGA) et apprentissage des techniques d'enseignement afin de préparer mes séances et d'encadrer au mieux mes élèves durant mes cours.
+          Enseignement des mathématiques niveau lycée (Equations / Derivées / Limites) dans des classes de 10 étudiants en Economie-Gestion à la FEG (UGA) et apprentissage des techniques d'enseignement afin de préparer mes séances et d'encadrer au mieux mes élèves durant mes cours.
 
   - title: Experience professionnelle
     layout: list
