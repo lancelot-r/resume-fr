@@ -103,8 +103,8 @@ content:
         quote: >
           Effet de l'altitude sur le développement des enfants de 6 mois à 12 ans vivant au Pérou
         description: | # this will include new lines to allow paragraphs
-          Publication scientifique en cours de rédaction en vue d'une soumission fin 2025 à la suite de mon stage effectué au laboratoire HP2 pour le projet "Expedition 5300", dans lequel j'ai effectué la partie analyse de données et modélisation sur l'effet de l'altitude dans le développement hematologique des enfaits vivant au pérou, dans la ville la plus haute du monde (La Rinconada - 5300m)
-          Journal visé : American Journal of Hematology
+          Publication scientifique en cours de rédaction en vue d'une soumission fin 2025 à la suite de mon stage effectué au laboratoire HP2 pour le projet "Expedition 5300", dans lequel j'ai effectué la partie analyse de données et modélisation sur l'effet de l'altitude dans le développement hematologique des enfaits vivant au pérou, dans la ville la plus haute du monde (La Rinconada - 5300m) <br>
+          <b>Journal visé : American Journal of Hematology</b>
 
   - title: Diplômes # Title for the section
     layout: list # Type of content section (list/text)

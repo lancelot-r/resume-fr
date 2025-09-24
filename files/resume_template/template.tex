@@ -1,0 +1,96 @@
+\documentclass[11pt,]{resume}
+\usepackage{setspace}
+\usepackage{hyperref}
+\usepackage{fontawesome5}
+%------------------------------------------------
+
+\name{Lancelot Ravier}
+\address{Recherche de stage reconductible en thèse dans le domaine de la modélisation statistique en santé / biostatistiques}
+\address{\faPhone\  +33 6 98 24 23 63 \\ \faEnvelope\ lancelotravier@gmail.com \\ \href{https://github.com/lancelot-r}{\faGithub\ GitHub} \\ \href{https://www.linkedin.com/in/ravierl/}{\faLinkedin\ Linkedin}}
+
+\begin{document}
+
+\begin{rSection}{Compétences}
+
+	\begin{tabular}{@{} >{\bfseries}l @{\hspace{6ex}} p{12cm} @{}}
+    Programmation & R, Python, Julia, Git, \LaTeX, HTML/CSS \\
+    Langues vivantes & Français (natif), Brésilien (natif), Anglais (B2-C1), Espagnol (B1), Russe et Allemand (A1) \\
+	\end{tabular}
+
+\end{rSection}
+
+\begin{rSection}{Publications scientifique}
+
+	\begin{rSubsection}{Anemia and iron status in children living permanently at high altitude}{\textit{Redaction en cours}}{}{}
+		\item Journal visé : American Journal of Hematology (voir projet "Expedition5300")
+	\end{rSubsection}
+
+\begin{rSection}{Diplômes}
+
+	\begin{rSubsection}{Master 2 - Statistiques et Sciences de Données}{2025 - Present}{Moyenne : \textit{en cours...}}{Université Grenoble Alpes}
+		\item Cours suivis : Statistique computationnelle (Bootstrap, MCMC, Bayésien), Statistique en grande dimension (Tests multiples, Pénalisation Lasso/Ridge), Estimation non-paramétrique, Machine Learning (Arbres, SVM, Forêts aléatoires), Deep Learning, Optimisation (Python, Julia), Biostatistiques avancée (Modèles de Cox, modèles mixtes, inférence causale), Fiabilité (lois de probabilité, Weibull, maintenance), Fouille de texte (Xord2Vec, BERT, NLP avec PyTorch/Tensorflow), Geostatistique et statistique spatiale (Krigeage, processus de Poisson, modèles de Gibbs)
+	\end{rSubsection}
+
+
+	\begin{rSubsection}{Master 1 - Statistiques et Sciences de Données}{2024/2025}{Moyenne : 15.665/20}{Université Grenoble Alpes}
+		\item Cours suivis : Théorie des probabilités/Statistiques inférentielles, Machine learning (clustering, LDA/QDA, regression logistique, modèles pénalisés), Analyse de données (ACP, AFC, classification), Séries temporelles (ARIMA/SARIMA), Modèles linéaires et GLM, Bases de données, Programmation (R, Python, Julia), Production de rapports reproductibles (RMarkdown, \LaTeX, ).
+	\end{rSubsection}
+
+
+	\begin{rSubsection}{Licence Economie Appliquée et Analyse de Données}{2021/2024}{Mention : Bien}{Université Grenoble Alpes}
+		\item Classement : 1/341 (L1), 2/328 (L2), 1/60 (L3).
+		\item Moyennes : 17.443/20 (L1), 18.022/20 (L2), 16.328/20 (L3)
+	\end{rSubsection}
+
+\end{rSection}
+
+\begin{rSection}{Projets universitaires et expériences académiques}
+
+	\begin{rSubsection}{Projet Expedition 5300 (Enfants)}{Mai - Septembre 2025}{Superviseur : Samuel Verges}{\href{https://hp2.univ-grenoble-alpes.fr/fr}{HP2 - INSERM u1042}}
+		\item Dans le cadre du projet Expédition 5300, j’ai commencé par lire les articles scientifique (anglais) mis a disposition par mon superviseur pour m'inprégner du sujet, puis j'ai contribué à la collecte, au traitement et à l’analyse de données physiologiques et hématologiques en choisissant les outils statistiques adéquat pour quantifier les effets de l’altitude sur le développement des enfants vivant à Lima (150m), Cusco (3400m), Juliaca (3800m) et La Rinconada (5300m). J’ai également participé à la mise en place de seuils de détection et à l’évaluation de différentes définitions épidémiologiques de l'anémie et de la polyglobulie. Enfin, j’ai pris part à la valorisation scientifique du projet en réalisant des figures, des résumés statistiques et des visualisations destinées aux publications et communications associées.
+	\end{rSubsection}
+\newpage
+	\begin{rSubsection}{Biomarqueurs pour le cancer du Colon}{Master 1 Semestre 7/8 - 2024/2025}{Superviseurs : Ekaterina Bourova-Flin}{\href{https://iab-grenoble.fr/}{IAB - CNRS UMR 5309}}
+		\item Comparaison des performances de detection du cancer du colon selon l'anticorp choisi à l'aide des courbes de survies, des tests de log-rank et des modèles de cox et développement de modèles de machine-learning pour détecter certaines tumeurs aux besions de traitemnet particulier à l'aide des données d'expression et de methylation de gênes.
+	\end{rSubsection}
+
+	\begin{rSubsection}{Jeu de BlackJack en Julia (Package)}{Master 1 Semestre 7 - 2024}{Superviseur : Rémi Drouilhet}{\href{https://www-ljk.imag.fr/}{LJK - CNRS UMR 5224}}
+		\item Codage d'un jeu de Blackjack sous Julia sans l'aide de packages, création de l'interface graphique sous Pluto à l'aide de code HTML, benchmarks entre Julia/R/C\texttt{++} et codage de différentes fonctions pour illustrer le multiple-dispatching de Julia.
+	\end{rSubsection}
+
+	\begin{rSubsection}{Modélisation temporelle énergie/température (Maroc)}{Master 1 Semestre 7 - 2024}{Superviseur : Frédérique Leblanc}{\href{https://www-ljk.imag.fr/}{LJK - CNRS UMR 5224}}
+		\item Modélisation de la consommation électrique et de la température pour l'été 2017 à Tétouan (Maroc) à partir de données horaires (base de donneés publique), mise en place et comparaison de modèles de prévision (SARIMA manuel/auto, Holt-Winters ETS) avec évaluation via AIC, BIC et RMSE et étude de la corrélation entre température et consommation (forecast, tseries, ggplot2).
+	\end{rSubsection}
+
+	\begin{rSubsection}{Les déterminants de l'utilisation de Glyphosate en France}{L3 Semestre 6 - 2024}{Superviseur : Adélaïde Fadhuile}{\href{https://gael.univ-grenoble-alpes.fr/fr}{GAEL - CNRS UMR 5313}}
+		\item Recherche et concaténation des bases de données liées à l'achat de glyphosate et aux caracteristiques des terrains agricoles par département puis recherche du meilleur modèle linéaire afin de rechercher et quantifier l'influence des variables agricoles consommation de glyphosate en France.
+	\end{rSubsection}
+
+	\begin{rSubsection}{Prédiction du prix des logements à Seattle}{L3 Semestre 5 - 2023}{Superviseur : Adélaïde Fadhuile}{\href{https://gael.univ-grenoble-alpes.fr/fr}{GAEL - CNRS UMR 5313}}
+		\item Traitement et présentation des données de vente de biens immobiliers dans le comté de King à Washington (USA), analyse des relations entre les caracteristiques et le prix des logements, puis constitution d'un modèle linéaire pour la prédiction du prix des logements selon leurs caracteristiques.
+	\end{rSubsection}
+
+	\begin{rSubsection}{Enseignant-Tuteur en Mathématiques}{2022, 2023 et 2024}{Superviseur : Antoine Clerc}{Faculté d'Economie de Grenoble}
+		\item Enseignement des mathématiques niveau lycée (Equations / Derivées / Limites) dans des classes de 10 étudiants en Economie-Gestion à la FEG (UGA) et apprentissage des techniques d'enseignement afin de préparer mes séances et d'encadrer au mieux mes élèves durant mes cours.
+	\end{rSubsection}
+
+	
+\end{rSection}
+
+\begin{rSection}{Expérience professionnelle}
+\begin{spacing}{0}
+	\begin{rSubsection}{Monteur - Assembleur - Soudeur - Cableur}{Eté 2019/2020/2021/2024}{Schneider Electric}{Usine Ecofit / Usine MasterTech}
+
+	\end{rSubsection}
+
+	\begin{rSubsection}{Facteur à vélo}{Eté 2020/2021/2022/2023}{La Poste}{Grenoble et ses alentours}
+
+	\end{rSubsection}
+
+	\begin{rSubsection}{Assistant Import-Export}{Avril-Mai 2021}{Mention : Bien}{Usine Ecofit}
+
+	\end{rSubsection}
+\end{spacing}
+\end{rSection}
+
+\end{document}
