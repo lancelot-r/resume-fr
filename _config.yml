@@ -271,7 +271,6 @@ content:
       - layout: right
         title: '<img src="images/alpi.jpeg" width="300" style="vertical-align:middle; margin-right:5px;">'
         description: | # this will include new lines to allow paragraphs
-          - Né d'une mère brésilienne et d'un père français, j'ai depuis ma naissance le goût de la découverte et de la curiosité.
           - J'ai découvert un intérêt pour l'informatique dès mes 10 ans, lorsque j'ai eu mon premier PC. Seulement, un an après, j'ai éteint par erreur mon PC pendant une mise à jour Windows. J'ai du trouver un moyen de remplacer mon OS corrompu. Pour ce faire, j'ai installé Linux 10.04, et appris à l'utiliser depuis !
           - Lorsque je ne travaille pas, on me trouve généralement sur les sommets des alpes, piolet en main et crampons aux pieds. Lors de cette saison 2024, j'ai pu faire, entre-autres :
             - <b>Mont Blanc 4806m</b> (freesolo)
