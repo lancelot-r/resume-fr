@@ -5,6 +5,19 @@ repository: lancelot-r/resume-fr
 # Content configuration version
 version: 2
 
+content:
+  - title: Sommaire
+    layout: text
+    content: |
+      <div style="margin-bottom:20px;">
+        <b>Sommaire :</b><br>
+        <a href="#publication-s-scientifique-s">📖 Publications scientifiques</a><br>
+        <a href="#diplomes">🎓 Diplômes</a><br>
+        <a href="#projets-universitaires-et-experiences-academiques">📂 Projets universitaires</a><br>
+        <a href="#experience-professionnelle">💼 Expérience professionnelle</a><br>
+        <a href="#un-peu-plus-sur-moi">🌄 Un peu plus sur moi</a>
+      </div>
+
 # Personal info
 name: Lancelot Ravier
 title: |
