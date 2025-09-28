@@ -84,23 +84,6 @@ about_content: | # this will include new lines to allow paragraphs
 
   <hr>
 
-
-
-
-
-content:
-  - title: Sommaire
-    layout: text
-    content: |
-      <div style="margin-bottom:20px;">
-        <b>Sommaire :</b><br>
-        <a href="#publication-s-scientifique-s">📖 Publications scientifiques</a><br>
-        <a href="#diplomes">🎓 Diplômes</a><br>
-        <a href="#projets-universitaires-et-experiences-academiques">📂 Projets universitaires</a><br>
-        <a href="#experience-professionnelle">💼 Expérience professionnelle</a><br>
-        <a href="#un-peu-plus-sur-moi">🌄 Un peu plus sur moi</a>
-      </div>
-
 content:
   - title: Publication(s) Scientifique(s) # Title for the section
     layout: list # Type of content section (list/text)
