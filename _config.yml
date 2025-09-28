@@ -63,15 +63,15 @@ about_content: | # this will include new lines to allow paragraphs
   <img src="images/france.png" height="20" style="vertical-align:middle; margin-right:5px;" title="Français">
   (natif),
   <img src="images/usa.png" height="20" style="vertical-align:middle; margin-right:5px;" title="Anglais">
-  (C1),
+  (courant),
   <img src="images/bresil.png" height="20" style="vertical-align:middle; margin-right:5px;" title="Portugais (Brésil)">
   (natif),
   <img src="images/espagne.png" height="20" style="vertical-align:middle; margin-right:5px;" title="Espagnol">
-  (B2),
+  (intermédiaire),
   <img src="images/allemagne.png" height="20" style="vertical-align:middle; margin-right:5px;" title="Allemand">
-  (A1),
+  (débutant),
   <img src="images/russie.png" height="20" style="vertical-align:middle; margin-right:5px;" title="Russe">
-  (A1)
+  (débutant)
 
   <hr>
 
