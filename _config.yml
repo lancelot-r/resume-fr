@@ -194,7 +194,7 @@ content:
         quote: >
           Projet réalisé en 2024 sous la supervision de Remy Drouilhet (IMAG - Grenlble)
         description: | # this will include new lines to allow paragraphs
-          Codage d'un jeu de Blackjack sous Julia sans l'aide de packages, création de l'interface graphique sous Pluto à l'aide de code HTML, benchmarks entre Julia/R/C\texttt{++} et codage de différentes fonctions pour illustrer le multiple-dispatching de Julia face au simple-dispatching de R. <br> <b>Programmation :</b>
+          Codage d'un jeu de Blackjack sous Julia sans l'aide de packages, création de l'interface graphique sous Pluto à l'aide de code HTML, benchmarks entre Julia/R/C++ et codage de différentes fonctions pour illustrer le multiple-dispatching de Julia face au simple-dispatching de R. <br> <b>Programmation :</b>
           <img src="images/julia.png" height="50" style="vertical-align:middle; margin-right:5px;">
           <img src="images/html.png" height="40" style="vertical-align:middle; margin-right:5px;">
           <img src="images/cpp.png" height="40" style="vertical-align:middle; margin-right:5px;">
