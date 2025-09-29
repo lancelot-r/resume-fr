@@ -173,7 +173,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: <img src="images/IAB.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Data-challenge Epiclock 
+        title: <img src="images/iab.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Data-challenge Epiclock 
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
