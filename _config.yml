@@ -169,6 +169,20 @@ content:
           Projet tutoré réalisé sous la supervision de Ekaterina FLIN à l'Institut pour l'Avancée des Biosciences (IAB) Grenoble (2024/2025)
         description: | # this will include new lines to allow paragraphs
           Comparaison des performances de detection du cancer du colon selon l'anticorp choisi à l'aide des courbes de survies, des tests de log-rank et des modèles de cox et développement de modèles de machine-learning pour détecter certaines tumeurs aux besions de traitemnet particulier à l'aide des données d'expression et de methylation de gênes. <br> <b>Programmation :</b> <img src="images/python.png" height="35" style="vertical-align:middle; margin-right:5px;">
+
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: <img src="images/iab.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Data-challenge Epiclock : 
+        additional_links:
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: https://github.com/lancelot-r/data_challenge_epiclock/blob/main/projet_glm_ravier_combelles.pdf
+        quote: >
+          Data challenge réalisé sous la supervision de Florent Chuffart dans le cadre d'un cours de Machine-Learning.
+        description: | # this will include new lines to allow paragraphs
+          Développement et comparaison de modèles statistiques et de machine learning (régressions pénalisées, XGBoost, ElasticNet) appliqués à des données de méthylation d’ADN. Optimisation par validation croisée et évaluation des performances via RMSE. <br> <b>Programmation :</b> <img src="images/python.png" height="35" style="vertical-align:middle; margin-right:5px;">
+
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -191,7 +205,7 @@ content:
                       # other value (or no value) means no border will be displayed
         title: <img src="images/miai.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Modélisation temporelle de la consommation d'énergie / température à Tétouan (Maroc) 
         additional_links:
-          - title:  Repository du pprojet
+          - title:  Repository du projet
             icon: fab fa-github
             url: https://github.com/lancelot-r/projet_electricite_temperature/blob/main/rapport.pdf
         quote: >
