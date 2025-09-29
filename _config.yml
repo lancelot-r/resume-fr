@@ -173,13 +173,13 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: <img src="images/iab.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Data-challenge Epiclock : 
+        title: <img src="images/IAB.png" height="80" style="vertical-align:middle; margin-right:5px;"> <br> Data-challenge Epiclock : 
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: https://github.com/lancelot-r/data_challenge_epiclock/blob/main/projet_glm_ravier_combelles.pdf
         quote: >
-          Data challenge réalisé sous la supervision de Florent Chuffart dans le cadre d'un cours de Machine-Learning.
+          Data challenge réalisé sous la supervision de Florent Chuffart (IAB Grenoble) dans le cadre d'un cours de Machine-Learning en Master 1.
         description: | # this will include new lines to allow paragraphs
           Développement et comparaison de modèles statistiques et de machine learning (régressions pénalisées, XGBoost, ElasticNet) appliqués à des données de méthylation d’ADN. Optimisation par validation croisée et évaluation des performances via RMSE. <br> <b>Programmation :</b> <img src="images/python.png" height="35" style="vertical-align:middle; margin-right:5px;">
 
